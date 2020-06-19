@@ -1,5 +1,3 @@
-# P434-E510-KV-Store
-
 Jeffrey Lim
 
 Ben Siefers
